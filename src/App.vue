@@ -1,6 +1,6 @@
 <template>
   <div class="main">
-    <h3>EMP Vue2 App</h3>
+    <h3>EMP Vue2 App Base</h3>
     <img src="./logo.png" />
     <Content />
   </div>

@@ -2,9 +2,14 @@
   "name": "@empvue2/project",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license":"MIT",
+  "author": {
+    "name":"flyyuan",
+    "homepage": "https://github.com/flyyuan"
+  },
   "devDependencies": {
     "@efox/emp-cli": "latest",
+    "@efox/emp-remote-md5": "^1.1.4",
     "@efox/emp-vue2": "latest",
     "@efox/eslint-config-react-prittier-ts": "^1.2.5",
     "vue-loader": "^15.9.5",
